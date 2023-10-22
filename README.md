@@ -99,6 +99,7 @@
 
 ## L
 
+- **LB** - Leadership Body
 - **LC** - Local Committee 
 - **LCP** – Local Committee President
 - **LCVP** - Local Committee Vice President (local heads of department)
