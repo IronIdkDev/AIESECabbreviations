@@ -119,6 +119,7 @@
 - **MKT** - Marketing
 - **MoS** - Measure of Success
 - **MX** - Membership Experience
+- **MXS** - Member Experience Standards (such as Working Hours, Area Meetings, LC Meetings, PDPs, etc)
 
 ## N
 
