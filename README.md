@@ -34,6 +34,7 @@
 
 - **CX** - Customer Experience 
 - **CO** - Completed
+- **CM** - Calibration Meeting
 
 ## D
 
@@ -80,6 +81,7 @@
 
 - **IC** - Impact Circle
 - **ICB** - Internal Control Board (the international ECB)
+- **iComm** - Internal Communications (Usually also used to refer as the iComm Team, responsible for internal content)
 - **ICX** - Incoming Exchange (operations who receive EPs, like iGV, iGT and iGE)
 - **IM** - Information Management
 - **IR** - International Relations
