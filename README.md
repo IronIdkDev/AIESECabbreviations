@@ -115,6 +115,7 @@
 ## M
 
 - **MA** - Matching Process | The process of all the AIESEC customer statuses, including: Stanger, Open, APL - Applied, ACP - Accepted, APP/APV/APR/APD - Approved, RE - Realized, CO - Completed, Deleted
+- **MAG** - Members Achieving their Goals
 - **MC** - Member Committee (National Executive Board) 
 - **MCP** - Member Committee President 
 - **MCVP** - Member Committee Vice President (national heads of department)
