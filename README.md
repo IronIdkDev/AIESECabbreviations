@@ -222,4 +222,4 @@
 
 *Disclaimer: Some abbreviations might be regional or outdated and therefore not present in the document or may have been altered.*
 
-*For further inquiries or to request a change, please contact João Ferro: +351 963361022.*
+*For further inquiries or to request a change, please contact João Ferro: joaoferro.contact@gmail.com*
